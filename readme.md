@@ -1,8 +1,8 @@
 ## 專案說明
 * junior_painter是一個flutter package，支援多平台使用，
-AuroraWarehoseView專案是這個package的簡單應用範例，未來希望支援畫更多圖型、以及實際應用。
+  AuroraWarehouseView專案是這個package的簡單應用範例，未來希望支援畫更多圖型、以及實際應用。
 * junior_painter主要有Edit Mode、Preview Ｍode模式。
-* [AuroraWarehoseView(可視化儲位Demo演示)](https://cheeregofa.github.io/AuroraWarehoseView)
+* [AuroraWarehouseView(可視化儲位Demo演示)](https://cheeregofa.github.io/junior_painter/)
 
 ## 主要Mode說明
 
